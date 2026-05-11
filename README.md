@@ -6,9 +6,9 @@
 以下のリンクから、インストール不要でブラウザ上で操作・閲覧が可能です。
 
 * **盛岡市版マップ**
-  👉 https://gyosei-yuki.github.io/cyber-iwate/morioka.html
+  👉 https://gyosei-yuki.github.io/cyber-iwate/morioka/
 * **北上市版マップ**
-  👉 https://gyosei-yuki.github.io/cyber-iwate/kitakami.html
+  👉 https://gyosei-yuki.github.io/cyber-iwate/kitakami/
 
 ## 📊 データ出典・ライセンス
 本プロジェクトは、以下のオープンデータを利用し、機械判読性向上のためのデータクレンジング（不要なスペース文字の除去、データ型の変換等）を施して作成しています。
